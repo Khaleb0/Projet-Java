@@ -1,1 +1,1 @@
-Conception en binôme d'une interface graphique servant d'outil de gestion des tâches collaboratives au sein d'une entreprise. L'application permet de gérer efficacement les tâches d'équipe avec une architecture MVC robuste.
+Conception d'une interface graphique servant d'outil de gestion des tâches collaboratives au sein d'une entreprise. L'application permet de gérer efficacement les tâches d'équipe avec une architecture MVC robuste.
